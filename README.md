@@ -1,1 +1,1 @@
-otp genrator
+1 otp genrator
