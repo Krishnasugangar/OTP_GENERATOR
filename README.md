@@ -1,1 +1,1 @@
-otp generator
+1 otp generator
